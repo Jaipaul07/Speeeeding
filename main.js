@@ -1,12 +1,11 @@
 // Input
-let subject = +promt("Enter a school subject");
-let Color = +promt("Enter a color");
-let Noun = +promt("Enter a noun");
+let bsq = +promt("Enter a color");
+let asq= +promt("Enter a noun");
  
 // Process
 
-let 
+let math = +promt("${asq} * ${asq} + ${bsq} * ${bsq}");
 
 // Output
-alert(msg);
+alert(${math});
 
