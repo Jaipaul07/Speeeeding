@@ -7,5 +7,5 @@ let asq= +promt("Enter a noun");
 let math = +promt("${asq} * ${asq} + ${bsq} * ${bsq}");
 
 // Output
-alert(${math});
+alert(math);
 
