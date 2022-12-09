@@ -3,7 +3,7 @@ let sumOut = document.getElementById("sum-out");
 
 calcBtn.addEventListener("click, calcSum");
 
-function calc() {
+function calcSum() {
     // let total = 0;
     // for (let n = 1; n <= 5; n++) {
        // total = total + n;
