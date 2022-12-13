@@ -10,4 +10,4 @@ function calcSum() {
 // }
 let total = 1000 * 1001 / 2;
 sumOut.innerHTML = total;
-} 
+}
